@@ -10,7 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with sharpen my craft.
 - 📫 How to reach me: [@dan_the_coder](https://twitter.com/Dan_the_Coder) 
 - 😄 Pronouns: English, Sinhala.
-- ⚡ Fun fact: I love photography, and pc games...
+- ⚡ Fun fact: I love photography, and PC games...
+- 🥅 2021 Goals: 
+    - Contribute more to Open Source projects(At least 12)
+    - Write couple of Medium articles.
+    - Hopefully, get fundings for one of my startup ideas.
 <!--- 💬 Ask me about -->
 
 ## Languages & Tools.
