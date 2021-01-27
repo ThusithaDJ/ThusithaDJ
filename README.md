@@ -1,6 +1,6 @@
 ### Hi there, I'm Thusitha Jayasundara 👋
 
-## I am a developer trying to change the world with code while trying to make a better place better than yesterday.
+## I am a developer trying to change the world with code while trying to become a better human than yesterday.
 
 Here are some things about me:
 
