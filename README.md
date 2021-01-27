@@ -2,7 +2,7 @@
 
 ## I am a developer trying to change the world with code while trying to make a better place better than yesterday.
 
-Here are some ideas to get you started:
+Here are some things about me:
 
 - 🔭 I’m currently working on understanding my true potential.
 - 🌱 I’m currently learning a Masters degree
