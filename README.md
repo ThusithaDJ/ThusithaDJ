@@ -12,7 +12,7 @@ Here are some things about me:
 - 😄 Pronouns: English, Sinhala.
 - ⚡ Fun fact: I love photography, and PC games...
 - 🥅 2021 Goals: 
-    - Contribute more to Open Source projects(At least 12)
+    - Contribute more to Open Source projects(At least 12 my own projects)
     - Write couple of Medium articles.
     - Hopefully, get fundings for one of my startup ideas.
 <!--- 💬 Ask me about -->
