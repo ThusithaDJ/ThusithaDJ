@@ -2,6 +2,8 @@
 
 ## I am a developer trying to change the world with code while trying to become a better human than yesterday.
 
+<img align="right" width="350px" src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif"/>
+
 Here are some things about me:
 
 - 🔭 I’m currently working on understanding my true potential.
@@ -16,6 +18,7 @@ Here are some things about me:
     - Write couple of Medium articles.
     - Hopefully, get fundings for one of my startup ideas.
 <!--- 💬 Ask me about -->
+
 
 ## Languages & Tools.
 
@@ -34,4 +37,8 @@ Here are some things about me:
 </br>
 
 ## Languages Stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusithadj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.thusithadj.vercel.app/api/top-langs/?username=thusithadj&layout=compact)](https://github.com/ThusithaDJ)
+
+[![willianrod's wakatime stats](https://github-readme-stats.thusithadj.vercel.app/api/wakatime?username=dan_the_coder)](https://github.com/ThusithaDJ)
+
+[![Thusitha's GitHub stats](https://github-readme-stats.thusithadj.vercel.app/api?username=thusithadj&show_icons=true&theme=radical)](https://github.com/ThusithaDJ)
