@@ -37,8 +37,16 @@ Here are some things about me:
 </br>
 
 ## Languages Stats.
-[![Top Langs](https://github-readme-stats.thusithadj.vercel.app/api/top-langs/?username=thusithadj&layout=compact)](https://github.com/ThusithaDJ)
 
-[![willianrod's wakatime stats](https://github-readme-stats.thusithadj.vercel.app/api/wakatime?username=dan_the_coder)](https://github.com/ThusithaDJ)
+<a href="https://github.com/ThusithaDJ">
+  <img align="left" src="https://github-readme-stats.thusithadj.vercel.app/api/top-langs/?username=thusithadj&layout=compact" />
+</a>
 
-[![Thusitha's GitHub stats](https://github-readme-stats.thusithadj.vercel.app/api?username=thusithadj&show_icons=true&theme=radical)](https://github.com/ThusithaDJ)
+<a href="https://github.com/ThusithaDJ">
+  <img align="left" src="https://github-readme-stats.thusithadj.vercel.app/api/wakatime?username=dan_the_coder" />
+</a>
+
+</br>
+
+<span align="left">[![Thusitha's GitHub stats](https://github-readme-stats.thusithadj.vercel.app/api?username=thusithadj&show_icons=true&theme=radical)](https://github.com/ThusithaDJ)</span>
+
