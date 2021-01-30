@@ -39,14 +39,15 @@ Here are some things about me:
 ## Languages Stats.
 
 <a href="https://github.com/ThusithaDJ">
-  <img align="left" src="https://github-readme-stats.thusithadj.vercel.app/api/top-langs/?username=thusithadj&layout=compact" />
-</a>
+  <img align="float:left" src="https://github-readme-stats.thusithadj.vercel.app/api/top-langs/?username=thusithadj&layout=compact" />
+</a>  
 
 <a href="https://github.com/ThusithaDJ">
-  <img align="left" src="https://github-readme-stats.thusithadj.vercel.app/api/wakatime?username=dan_the_coder" />
-</a>
+  <img align="float:right" src="https://github-readme-stats.thusithadj.vercel.app/api/wakatime?username=dan_the_coder" />
+</a>  
 
 </br>
-
-<span align="left">[![Thusitha's GitHub stats](https://github-readme-stats.thusithadj.vercel.app/api?username=thusithadj&show_icons=true&theme=radical)](https://github.com/ThusithaDJ)</span>
+<a href="https://github.com/ThusithaDJ">
+  <img align="float:left" src="https://github-readme-stats.thusithadj.vercel.app/api?username=thusithadj&show_icons=true&theme=radical" />
+</a>
 
