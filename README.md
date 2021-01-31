@@ -2,7 +2,7 @@
 
 ## I am a developer trying to change the world with code while trying to become a better human than yesterday.
 
-<img align="right" width="350px" src="https://picsum.photos/200/300?random=2"/>
+<img align="right" width="350px" src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif"/>
 
 Here are some things about me:
 
