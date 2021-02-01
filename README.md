@@ -1,4 +1,5 @@
 ### Hi there, I'm Thusitha Jayasundara 👋
+<img align="center" width="110px" src="https://www.codewars.com/users/ThusithaDJ/badges/micro"/>
 
 ## I am a developer trying to change the world with code while trying to become a better human than yesterday.
 
