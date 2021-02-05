@@ -1,4 +1,4 @@
-### Hi there, I'm Thusitha Jayasundara 👋
+### Hi there, I'm Thusitha Jayasundara 👋<img align="center" width="40px" src="https://cdn.staticaly.com/gh/hampusborgos/country-flags/master/svg/lk.svg"/>
 <a href="https://www.codewars.com/users/ThusithaDJ">
     <img align="center" width="110px" src="https://www.codewars.com/users/ThusithaDJ/badges/micro"/>
 </a>
