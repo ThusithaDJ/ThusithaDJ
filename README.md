@@ -22,7 +22,7 @@ Here are some things about me:
 - 📫 How to reach me: [@dan_the_coder](https://twitter.com/Dan_the_Coder) 
 - 😄 Pronouns: English, Sinhala.
 - ⚡ Fun fact: I love photography, and PC games...
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
     - Contribute more to Open Source projects(At least 12 my own projects)
     - Write couple of Medium articles.
     - Hopefully, get fundings for one of my startup ideas.
