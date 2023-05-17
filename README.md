@@ -9,7 +9,7 @@
     <img align="center" width="110px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-## I am a developer trying to change the world with code while trying to become a better human than yesterday.
+## I am just a tech enthusiastic programmer
 
 <img align="right" width="350px" src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif"/>
 
@@ -22,7 +22,7 @@ Here are some things about me:
 - 📫 How to reach me: [@dan_the_coder](https://twitter.com/Dan_the_Coder) 
 - 😄 Pronouns: English, Sinhala.
 - ⚡ Fun fact: I love photography, and PC games...
-- 🥅 2022 Goals: 
+- 🥅 2023 Goals: 
     - Contribute more to Open Source projects(At least 12 my own projects)
     - Write couple of Medium articles.
     - Hopefully, get fundings for one of my startup ideas.
