@@ -20,7 +20,7 @@ Here are some things about me:
 - 👯 I’m looking to collaborate with people who are more inspiring than me about coding.
 - 🤔 I’m looking for help with sharpening my craft.
 - 📫 How to reach me: [@dan_the_coder](https://twitter.com/Dan_the_Coder) 
-- 😄 Pronouns: English, Sinhala.
+- 🗣️ Speaks: English, Sinhala.
 - ⚡ Fun fact: I love photography, and PC games...
 - 🥅 2023 Goals: 
     - Contribute more to Open Source projects(At least 12 my own projects)
